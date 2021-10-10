@@ -1,4 +1,4 @@
 # API-com-express
 Simple API using express. 
 
-API CRUD with JavaScript -> Leaning project
+API CRUD with JavaScript -> Learning project
